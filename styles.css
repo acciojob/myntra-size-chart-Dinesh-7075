@@ -1,2 +1,15 @@
 
 /* Your CSS Code here. */
+table,tr,td {
+	border-collapse:collapse;
+	border:1px solid black;
+	width:600px;
+	height:5px;
+}
+th {
+	border-collapse:collapse;
+	border:1px solid black;
+	width:600px;
+	height:5px;
+	text-align:left;
+}
